@@ -33,7 +33,9 @@ Your new project will appear in the Projects tab in the left-most part of NetBea
 
 #### Step 6:
 Right click your Project and select New->Web-Service.
-![276814346-e45c5bec-b36c-4b91-87c3-f49ac1c84604](https://github.com/user-attachments/assets/4b14a2c5-63d9-48e6-85d2-576ff8e4aa64)
+
+![276814346-e45c5bec-b36c-4b91-87c3-f49ac1c84604](https://github.com/user-attachments/assets/0a5c158c-de35-4223-8bb6-3465e41b6b9c)
+
 
 
 
